@@ -1,1 +1,1 @@
-# ambiente-go
+# Ambiente de desenvolvimento Go
